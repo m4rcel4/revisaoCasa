@@ -1,6 +1,6 @@
-import Header from '../../componets/Header'
-import Container from '../../components/Container'
-import Footer from '../../components/Footer'
+import Header from '../Components/Header'
+import Container from '../Components/Container'
+import Footer from '../Components/Footer'
 
 
 
