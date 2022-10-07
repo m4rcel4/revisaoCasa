@@ -1,0 +1,41 @@
+.container {
+    display: grid;
+    grid-template: "a a a "
+                   "b b b "
+                   "c c c ";
+    
+    width: 100vw;
+    height: 100vh;
+    grid-gap: 5px;
+    background-color: white;
+    
+  }
+  
+  
+  .topo {
+     display: grid;
+     height:15vh;
+    grid-area: a;
+    background-color: grey;
+       
+  }
+  
+  .meio {
+     display:grid;
+     height:65vh;
+    grid-area: b;
+    background-color: blue;
+  
+  }
+  
+  
+    
+  
+  .baixo {
+    
+    display:grid;
+     height:15vh;
+    grid-area: c;
+    background-color:#1E88E5;
+    
+  }

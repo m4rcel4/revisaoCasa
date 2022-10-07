@@ -1,10 +1,10 @@
-import style from './style.module.css'
+//import style from './style.module.css'
 
 function Footer () {
 
     return (
 
-        <div className={style.footer}>MMNCDEFDGRGETHFVMKRJGI</div>
+        <div>MMNCDEFDGRGETHFVMKRJGI</div>
 
     )
 }

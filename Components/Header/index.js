@@ -1,8 +1,8 @@
-import style from './style.module.css' 
+//import style from './style.module.css' 
 
 function Header() {
     return(
-        <div className={style.menu}>HEADER</div>
+        <div >HEADER</div>
     )
     
 }
