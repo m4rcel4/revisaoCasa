@@ -1,6 +1,7 @@
 import Header from '../Components/Header'
 import Container from '../Components/Container'
 import Footer from '../Components/Footer'
+import Aside from '../Components/Aside'
 import styles from './index.module.css'
 
 
