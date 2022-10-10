@@ -17,6 +17,10 @@ function Home () {
         <Container/>
         </container>
 
+        <aside className= {styles.ladoD}>
+         <Aside/>
+        </aside>
+
 
         <footer className={styles.baixo}>
         <Footer/>

@@ -1,8 +1,8 @@
 .container {
     display: grid;
     grid-template: "a a a "
-                   "b b b "
-                   "c c c ";
+                   "b b c "
+                   "d d d ";
     
     width: 100vw;
     height: 100vh;
@@ -28,6 +28,14 @@
   
   }
   
+
+  .ladoD {
+
+    display: grid;
+    height: 65vh;
+    grid-area: c;
+    background-color:coral;
+  }
   
     
   
